@@ -1,7 +1,7 @@
 import login from '../selectors/login.sel'
 
 describe('Testing Login page', () => {
-    //Verify tha user can be logged
+    //Test_001: Verify that user can be logged
     before ('Open login page and accept all cookies',() =>{
         cy.visit('/login')
         cy.get(login.acceptCookies).click()
