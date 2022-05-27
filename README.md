@@ -23,8 +23,6 @@
 #### :test_tube: Tests:
 :file_folder: Tests are located in `cypress/integration` folder
 
-:file_folder: Custom commands are located in `cypress/support` folder (`.cmd.js` suffix)
-
 :file_folder: Selectors (CSS selectors) are located in `cypress/selectors` folder
 
 #### :hammer_and_wrench: Configuration
