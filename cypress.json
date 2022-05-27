@@ -1,0 +1,15 @@
+
+{
+    "baseUrl": "https://app.laserhub.com",
+    "defaultCommandTimeout": 15000,
+    "env": {
+        "email": "e.ioannidis+testing_worktask@laserhub.com",
+        "password": "l0vet3sting@"
+    },
+    "retries":{
+        "runMode": 1,
+        "openMode": 0
+    },
+    "viewportWidth": 1920,
+    "viewportHeight": 1080
+}
